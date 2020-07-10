@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=B612:wght@700&display=swap');
+body {
+    margin: 0px;
+}
+
+#particles-js {
+    background-color: #a0d0f8;
+    height: 860px;
+    width: 100%;
+}
+
+#name {
+    color: #ea5c5a;
+    font-size: 70px;
+    font-family: 'B612', sans-serif;
+    position: absolute;
+    margin: 250px 250px;
+}
+
+#typewriter {
+    position: absolute;
+    font-size: 60px;
+    font-family: 'B612', sans-serif;
+    font-weight: 700;
+    width: 800px;
+    margin: 350px 250px;
+}
+
+/*
+a0d0f8
+ea5c5a
+*/
